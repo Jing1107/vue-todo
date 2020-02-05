@@ -1,9 +1,11 @@
 # Quasar App
 
-> this is a quasar project base on vue.js, all data stored on firebase
+this is a quasar project base on vue.js, all data stored on firebase
 
 to run this project
 
-1st npm install
+you need to install quasar cli first,
 
-2nd quasar dev
+then download the project and npm install at console
+
+then quasar dev
